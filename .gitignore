@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+work/
+nnUNet_raw/
+nnUNet_preprocessed/
+nnUNet_results/
+*.nii
+*.nii.gz
+*.mha
+*.npz

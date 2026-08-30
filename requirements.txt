@@ -1,0 +1,6 @@
+nnunetv2==2.8.1
+batchgeneratorsv2==0.3.4
+nibabel==5.4.2
+numpy==2.2.6
+scipy==1.16.1
+SimpleITK==2.5.2
